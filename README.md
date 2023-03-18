@@ -65,8 +65,8 @@ This program depends on the following packages:
 >`flutter/material.dart:` The Material Design framework for Flutter.
 # Contributions
 Contributions to this program are welcome. If you want to contribute, please follow these steps:
-+Fork the repository.
-*Create a new branch for your feature or bug fix.
-+Implement the feature or fix the bug.
-+Write tests for your code.
-*Submit a pull request.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Implement the feature or fix the bug.
+4. Write tests for your code.
+5. Submit a pull request.
