@@ -18,7 +18,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<<<<<<< HEAD
+
 # Floating action button example program
 This is a simple Flutter app that displays the text "Hello World" in the center of the screen and includes a floating action button that triggers a console log message when clicked.
 
@@ -70,6 +70,3 @@ Contributions to this program are welcome. If you want to contribute, please fol
 >Implement the feature or fix the bug.
 >Write tests for your code.
 >Submit a pull request.
-=======
-
->>>>>>> f285195e693c0d41f2a9c4331c2aea68cbd0a1aa
