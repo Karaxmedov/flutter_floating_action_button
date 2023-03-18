@@ -33,6 +33,6 @@ class MyApp extends StatelessWidget {
   }
 
   void onPressed() {
-    debugPrint("Tıklandı1");
+    debugPrint("Clicked");
   }
 }
